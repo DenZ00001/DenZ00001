@@ -8,11 +8,11 @@
 
 ### 🔥 About Me
 
-- 🌱 Currently learning **[Your Focus: e.g., Full-Stack Development, React, Node.js]**
+- 🌱 Currently learning **[Full-Stack Development, React, Node.js, etc]**
 - 💡 Dreaming of building something **revolutionary** 🚀
-- 👨‍💻 Love working on **[Short projects or topics you enjoy]**
+- 👨‍💻 Love working
 - 🛠️ Exploring: `AI`, `Cloud`, `Automation`
-- 📫 Reach me at: [your@email.com] or [LinkedIn/Portfolio Link]
+- 📫 Reach me at: nowhere hehe
 
 ---
 
