@@ -62,4 +62,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by DenZ]</p>
+<p align="center">© 2025 DenZ. Crafted with passion and lots of coffee ☕</p>
